@@ -1,9 +1,10 @@
-# :checkered_flag: Fridge Finder
+# :checkered_flag: Cozinha Virtual
 Achar receitas de acordo com os ingredientes presentes no seu inventorio (geladeira).
 
 ## :technologist: Membros da equipe
 
 535674 ANY MELANI FERNANDES VIEIRA CC
+
 538446 LUANA STANZ OLIVEIRA MAGALHÃES CC 
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
