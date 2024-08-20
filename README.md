@@ -1,5 +1,5 @@
 # :checkered_flag: Cozinha Virtual
-Coletânea de receitas.
+Coletânea de receitas, com seus comentários.
 
 ## :technologist: Membros da equipe
 535674 ANY MELANI FERNANDES VIEIRA CC
@@ -17,8 +17,10 @@ Receitas, usuário e comentários.
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
 Qualquer um pode ver receitas.
+
 Um usuário comum cadastrado pode ver receitas e comentar.
-O administra pode adicionar, apagar e editar receitas.
+
+O administrador pode adicionar, apagar e editar receitas.
 
 ----
 
