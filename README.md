@@ -1,8 +1,7 @@
 # :checkered_flag: Cozinha Virtual
-Achar receitas de acordo com os ingredientes presentes no seu inventorio (geladeira).
+Coletânea de receitas.
 
 ## :technologist: Membros da equipe
-
 535674 ANY MELANI FERNANDES VIEIRA CC
 
 538446 LUANA STANZ OLIVEIRA MAGALHÃES CC 
@@ -13,13 +12,13 @@ Administrador, usuário logado e usuário não logado.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Receitas, usuário, ingrediente e geladeira.
+Receitas, usuário e comentários.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Qualquer um pode pesquisar receitas pelo nome. Encontrando uma insteressante pode abri-la e ver sua foto, ingredentes e modo de preparo.
-Um usuário comum cadastrado pode atualizar sua geladeira inserindo ou removenso ingredientes deixando só os que quer usar para depois poder pesquisar com base nisso receitas.
-O administra além de tudo isso também pode adicionar, apagar e editar receitas.
+Qualquer um pode ver receitas.
+Um usuário comum cadastrado pode ver receitas e comentar.
+O administra pode adicionar, apagar e editar receitas.
 
 ----
 
@@ -46,7 +45,7 @@ Lista as tecnologias, frameworks e bibliotecas utilizados.
 | --- | --- | --- | --- | --- | 
 | Receitas | X |  X  | x  | X |
 | Usuário | X |    |   |  |
-| Geladeira |  |    | x  |  |
+| Comentários | x |  x  |   |  |
 
 > Lembre-se que é necessário implementar o CRUD de pelo menos duas entidades.
 
